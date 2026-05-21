@@ -28,23 +28,25 @@ Procedure-:
 
 
 # DIAGRAMS:
-## CLASS DIAGRAM:
-<img width="1239" height="1038" alt="Screenshot 2026-02-24 132015" src="https://github.com/user-attachments/assets/8b0ce2f1-d736-4342-a07c-31e60e6a7cdd" />
 
 ## USECASE DIAGRAM:
-<img width="976" height="872" alt="Screenshot 2026-02-24 132940" src="https://github.com/user-attachments/assets/5a4f0e1e-85a8-4a76-8625-ede03938c0eb" />
+<img width="1367" height="772" alt="SF 2 1" src="https://github.com/user-attachments/assets/081094d9-8a00-4f08-ac48-27f87cd80080" />
 
-## PACKAGE DIAGRAM:
-<img width="947" height="820" alt="Screenshot 2026-02-24 132609" src="https://github.com/user-attachments/assets/7bd7127e-ea5d-463f-abde-b9c843b06fb9" />
+## CLASS DIAGRAM:
+<img width="823" height="623" alt="SF 2 2" src="https://github.com/user-attachments/assets/3c45dd41-b579-4084-82cf-227de133af17" />
 
 ## ACTIVITY DIAGRAM:
-<img width="1246" height="1072" alt="Screenshot 2026-02-24 132347" src="https://github.com/user-attachments/assets/853f817c-d530-4eab-bda3-dfff2de319ee" />
-
-## COMMUNICATION DIAGRAM:
-<img width="1122" height="905" alt="Screenshot 2026-02-24 133023" src="https://github.com/user-attachments/assets/48308180-783f-44d5-8c2b-d96254c8c7da" />
+<img width="1363" height="906" alt="SF 2 3" src="https://github.com/user-attachments/assets/e3a7508e-6a2c-4338-a533-0ac4f2323b08" />
 
 ## SEQUENCE DIAGRAM:
-<img width="1241" height="1077" alt="Screenshot 2026-02-24 131926" src="https://github.com/user-attachments/assets/2528c7bd-7aa9-439a-b54d-616e252ab1d4" />
+<img width="1382" height="917" alt="SF 2 4" src="https://github.com/user-attachments/assets/b8163bcd-97a0-4639-b54b-86fabb26ffe2" />
+
+## COMMUNICATION DIAGRAM:
+<img width="1372" height="862" alt="SF 2 5" src="https://github.com/user-attachments/assets/eced2f9b-6186-4f52-8f2c-27ea57c1f10d" />
+
+## PACKAGE DIAGRAM:
+<img width="1382" height="891" alt="SF 2 6" src="https://github.com/user-attachments/assets/480e30e8-49ea-4554-9211-0cae8a9f532b" />
+
 
 # RESULT:
 Thus, the UML Diagrams for a Library Management System has been drawn and verified.
