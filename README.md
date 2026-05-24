@@ -36,7 +36,7 @@ Procedure-:
 <img width="823" height="623" alt="SF 2 2" src="https://github.com/user-attachments/assets/3c45dd41-b579-4084-82cf-227de133af17" />
 
 ## ACTIVITY DIAGRAM:
-<img width="1363" height="906" alt="SF 2 3" src="https://github.com/user-attachments/assets/e3a7508e-6a2c-4338-a533-0ac4f2323b08" />
+<img width="1380" height="923" alt="SF 2 3 (2)" src="https://github.com/user-attachments/assets/32e17873-8e8f-4b43-bc8b-5f1bb46c2835" />
 
 ## SEQUENCE DIAGRAM:
 <img width="1382" height="917" alt="SF 2 4" src="https://github.com/user-attachments/assets/b8163bcd-97a0-4639-b54b-86fabb26ffe2" />
